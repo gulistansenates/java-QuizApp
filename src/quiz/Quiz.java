@@ -14,11 +14,11 @@ public class Quiz {
                 String questionText = line;
                 String[] options = new String[4];
                 for (int i = 0; i < 4; i++) {
-                    options[i] = br.readLine().substring(3); // remove "A) ", "B) ", etc.
+                    options[i] = br.readLine().substring(3);
                 }
                 char correctAnswer = br.readLine().trim().toUpperCase().charAt(0);
                 questions.add(new Question(questionText, options, correctAnswer));
-                br.readLine(); // Skip blank line
+                br.readLine();
             }
         } catch (IOException e) {
             System.out.println("Error reading questions: " + e.getMessage());

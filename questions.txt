@@ -32,3 +32,38 @@ B) J.K. Rowling
 C) Mark Twain
 D) Ernest Hemingway
 A
+
+What is the chemical symbol for water?
+A) CO2
+B) H2O
+C) O2
+D) NaCl
+B
+
+Which continent is the Sahara Desert located in?
+A) Asia
+B) North America
+C) Africa
+D) Australia
+C
+
+Which data structure uses FIFO (First In, First Out)?
+A) Stack
+B) Queue
+C) Array
+D) Tree
+B
+
+What is the speed of light?
+A) 300,000 km/s
+B) 150,000 km/s
+C) 1,080 km/h
+D) 100,000 km/s
+A
+
+Who painted the Mona Lisa?
+A) Michelangelo
+B) Vincent van Gogh
+C) Pablo Picasso
+D) Leonardo da Vinci
+D
